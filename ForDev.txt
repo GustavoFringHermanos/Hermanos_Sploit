@@ -1,5 +1,5 @@
 update:
-change update version every new realse of exploit
+change update version every new release of exploit
 
 patch:
 1 - is patched
