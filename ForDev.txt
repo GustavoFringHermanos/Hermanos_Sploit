@@ -1,0 +1,6 @@
+update:
+change update version every new realse of exploit
+
+patch:
+1 - is patched
+0 - not patched
